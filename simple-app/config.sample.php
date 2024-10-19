@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'usersdb';
-$user = 'root';
-$pass = 'password'; // Replace with your MySQL password
+$user = 'root';         // Change this if you have a different MySQL user
+$pass = 'password';     // Set the MySQL root password if you have one
 
 $dsn = "mysql:host=$host;dbname=$db;charset=utf8mb4";
 $options = [
