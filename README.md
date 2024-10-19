@@ -23,4 +23,4 @@ CREATE TABLE users (
 
 <br><br>
 
-Test it on your home server or here -> <a href="https://filip-peev.com/simple-app/login.php" target="_blank">filip-peev.com/simple-app</a>
+Test it on your home server or here -> <a href="https://filip-peev.com/simple-app/login.php">filip-peev.com/simple-app</a>
